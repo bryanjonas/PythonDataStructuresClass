@@ -10,5 +10,7 @@ dependencies:
   - jupyterlab==1.2.0
   - git
   - pip
+  - numpy
+  - pandas
   - pip:
     - git+https://github.com/jupyterlab/jupyterlab-git.git
